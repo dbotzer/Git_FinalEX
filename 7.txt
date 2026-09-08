@@ -1,2 +1,0 @@
-Triggers second time Jenkins listen for GitHub webhook push notifications
-Updating
